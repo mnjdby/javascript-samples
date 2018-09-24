@@ -2,7 +2,7 @@
 =============
 
 
-Samples for the Deezer Javascript SDK
+Samples for the Deezer Javascript SDK can be used for lambci
 
 Full documentation is available on Deezer Developers website: http://developers.deezer.com/sdk/javascript
 
